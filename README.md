@@ -13,3 +13,15 @@ Play against the computer, track your score, and enjoy colorful outputs using th
 - Colorful feedback using **Colorama**
 - Graceful exit with final score display
 
+
+📌 Controls
+<ul><li> r for Rock</li>
+
+<li> p for Paper</li>
+
+<li> s for Scissors</li>
+
+<li> q to Quit</li></ul>
+
+
+
