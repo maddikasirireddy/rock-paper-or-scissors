@@ -34,3 +34,8 @@ Computer chose Paper
 You lost!
 Scores: Wins-0 | Losses-1 | Ties-0
 
+
+💡 Tips
+
+<ul><li>Use lowercase r, p, or s to play</li>
+<li>Press q anytime to quit and see final scores</li>
