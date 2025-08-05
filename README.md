@@ -26,12 +26,12 @@ Play against the computer, track your score, and enjoy colorful outputs using th
 
 📸 Example Output
 
-Welcome to the Rock, Paper or Scissors game!
-Press 'q' to quit the game.
-Rock, Paper or Scissors? (r/p/s): r
-You chose Rock
-Computer chose Paper
-You lost!
+Welcome to the Rock, Paper or Scissors game!<br>
+Press 'q' to quit the game.<br>
+Rock, Paper or Scissors? (r/p/s): r<br>
+You chose Rock<br>
+Computer chose Paper<br>
+You lost!<br>
 Scores: Wins-0 | Losses-1 | Ties-0
 
 
