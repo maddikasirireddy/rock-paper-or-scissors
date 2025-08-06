@@ -37,5 +37,5 @@ Scores: Wins-0 | Losses-1 | Ties-0
 
 💡 Tips
 
-<ul><li>Use lowercase r, p, or s to play</li>
+<ul><li>Use r, p, or s to play and get scores after every round</li>
 <li>Press q anytime to quit and see final scores</li>
